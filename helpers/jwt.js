@@ -23,9 +23,6 @@ const generarJWT = ( uid, name ) => {
 
     });
 
-
-
-
 }
 
 
